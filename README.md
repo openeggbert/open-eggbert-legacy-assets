@@ -6,3 +6,9 @@ select count(*),lower(name), HASH_SUM_VALUE from file  group by HASH_SUM_VALUE, 
 
 for file in *.bmp; do convert "$file" "${file%.bmp}".png; done
 
+for file in ./*.7z
+do
+  sha512sum "$file" >> sha512.txt
+  echo "">> sha512.txt
+done
+
