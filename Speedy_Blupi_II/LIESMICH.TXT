@@ -1,0 +1,99 @@
+Speedy Blupi II version 2.1
+---------------------------
+
+1. Einleitung
+   ----------
+
+Speedy Blupi ist das neueste Spiel von Epsitec. Zum Spielen
+muss die CD eingelegt sein. Für Multiplayer Spiele genügt
+eine einzige CD.
+
+
+2. Systemanforderungen
+   -------------------
+
+- Windows 95/98
+- Pentium 100 MHz (Pentium 166 MHz für Multiplayer)
+- 32 Mb RAM
+- 90 Mb freien Festplattenspeicher
+- Videokarte mit einer Auflösung von 640x480 in 256 Farben
+- CD-ROM Laufwerk 2x
+- Soundkarte (optional)
+- Tastatur oder Joypad (optional)
+
+Für Multiplayer Spiele (optional)
+
+- IPX oder TCP/IP Lokalnetzwerk
+  oder Internet mit 28.8 KB Modem
+  oder RS232 Nullmodemkabel (nur für zwei Spieler)
+
+
+3. Installation
+   ------------
+
+Speedy BLUPI läuft mit DirectX 3, 5, 6 oder 7. Das Installationsprogramm
+fragt ob Sie DirectX installieren wollen. Falls DirectX schon auf Ihrem
+Computer installiert ist, dann können Sie mit "Nein" antworten.
+Ansonsten wird DirectX 5 installiert.
+
+
+4. Technische Daten
+   ----------------
+
+- 11 Spielebenen, über 60 Levels
+
+- Sie können alleine oder im Multiplayermodus spielen
+
+- Multiplayer Spiel für bis zu vier Spieler
+  über Lokalnetzwerk (TCP/IP oder IPX), Internet oder 
+  Nullmodemkabel.
+
+- Level-Editor zum Erstellen Ihrer eigenen Levels.
+
+- Unterstützt Joypads mit Joystick und 4 Knöpfen A,B,C und D.
+
+
+5. Spielen
+   -------
+
+Tastatur :
+
+  Pfeiltasten :
+  Links       Blupi geht nach links.
+  Rechts      Blupi geht nach rechts.
+  Oben        Blupi schaut nach oben.
+  Unten       Blupi bückt sich und schaut nach unten
+              oder nimmt eine Bombe.
+
+  Ctrl	      Normaler Sprung.
+  Ctrl+Oben   Hoher Sprung.
+  Ctrl+Unten  Kleiner Sprung.
+
+              Auf einigen Tastaturen wird die Ctrl Taste 
+              Strg genannt.
+
+  Leertaste   Schiessen oder eine Bombe legen.
+  Esc         Partie unterbrechen.
+  Pause       Hält das Spiel an.
+  F1          Minigebrauchsanweisung.
+  F2          Einstellungen.
+  F3          Partie speichern.
+  F4          Gespeicherte Partie weiterspielen.
+
+Joypad :
+
+  A           Normaler Sprung.
+  B           Hoher Sprung.
+  C           Kleiner Sprung.
+  D           Schiessen oder eine Bombe legen.
+
+
+Copyright (C) 1998 EPSITEC SA
+
+EPSITEC SA
+CH-1092 Belmont
+Schweiz
+
+blupi@epsitec.ch
+www.epsitec.ch
+www.blupi.com/speedy

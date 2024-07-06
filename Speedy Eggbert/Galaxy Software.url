@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.romt.com/
+[DOC#5#6#7]
+BASEURL=http://www.romt.com/main/top1.htm
+[DOC#5#6#8]
+BASEURL=http://www.romt.com/main/topx.htm
+[DOC#5#9#10]
+BASEURL=http://www.romt.com/main/left.htm
+[DOC#5#9#11]
+BASEURL=http://www.romt.com/main/mainx.htm
+[InternetShortcut]
+URL=http://www.egames.com/
+Modified=A02CD34E76B2BE01D4

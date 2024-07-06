@@ -1,0 +1,88 @@
+SPEEDY BLUPI 1.0
+----------------
+
+1. Introduction
+   ------------
+
+La version de SPEEDY BLUPI que vous avez entre les mains
+est une version 1.0. Lorsque vous jouez seul, le CD est
+requis. En mode multi-joueur, un seul CD est nécessaire.
+
+2. Ordinateur requis
+   -----------------
+
+- Windows 95/98
+- Pentium 100 MHz (Pentium 166 MHz si multi-joueur)
+- 16 Mb RAM
+- 65 Mb d'espace libre sur un disque dur
+- Carte vidéo permettant le 640x480 en 256 couleurs
+- Carte son supportée par Windows 95
+- CD-ROM double vitesse
+- Clavier ou Joypad (optionnel)
+
+Multi-joueur (optionnel) :
+
+- Réseau local IPX ou TCP/IP
+- Réseau Internet à haut débit (modem 28.8 ko/s ou plus rapide)
+- Liaison série avec un câble null modem (2 joueurs)
+
+3. Installation
+   ------------
+
+SPEEDY BLUPI utilise DirectX 3, 5 ou 6. Le programme d'installation
+vous demande s'il faut installer DirectX.
+Si vous avez déjà installé DirectX, répondez "Non".
+Dans le cas contraire, le programme installera DirectX 5.
+
+4. Caractéristiques
+   ----------------
+
+- 7 niveaux, plus de 40 tableaux.
+
+- Possibilité de jouer seul ou à plusieurs.
+
+- Jeu en réseau local (type IPX) ou distant (Internet TCP/IP)
+  jusqu'à 4 joueurs.
+
+- Editeur de tableau permettant aux joueurs de créer
+  leurs propres parties et de les échanger avec d'autres
+  joueurs.
+
+- Possibilité de jouer avec une manette de jeu (JoyPad)
+  avec une croix directionnelle et 4 boutons A, B, C et D.
+
+5. Mode d'emploi
+   -------------
+
+Pendant le jeu :
+
+Gauche    Blupi marche à gauche.
+Droite    Blupi marche à droite.
+Haut      Blupi regarde en haut.
+Bas       Blupi se baisse, regarde en bas et prend une bombe.
+Ctrl      Saut moyen.
+Ctrl+Haut Grand saut.
+Ctrl+Bas  Petit saut.
+Espace    Tirer ou poser une bombe.
+Esc       Interrompt la partie.
+Pause     Met ou enlève la pause.
+F1        Mode d'emploi résumé.
+F2        Accès aux réglages.
+F3        Enregistre la partie.
+F4        Reprise d'une partie sauvegardée.
+
+Avec un Joypad :
+
+A         Saut moyen.
+B         Grand saut.
+C         Petit saut.
+D         Tirer ou poser une bombe.
+
+
+(C) 1998 by EPSITEC SA
+
+EPSITEC SA
+CH-1092 Belmont
+blupi@epsitec.ch
+www.epsitec.ch
+www.blupi.com/speedy
